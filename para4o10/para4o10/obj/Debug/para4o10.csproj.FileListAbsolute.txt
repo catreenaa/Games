@@ -1,0 +1,7 @@
+C:\Users\dgego\source\repos\para4o10\para4o10\bin\Debug\para4o10.exe.config
+C:\Users\dgego\source\repos\para4o10\para4o10\bin\Debug\para4o10.exe
+C:\Users\dgego\source\repos\para4o10\para4o10\bin\Debug\para4o10.pdb
+C:\Users\dgego\source\repos\para4o10\para4o10\obj\Debug\para4o10.csproj.AssemblyReference.cache
+C:\Users\dgego\source\repos\para4o10\para4o10\obj\Debug\para4o10.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\para4o10\para4o10\obj\Debug\para4o10.exe
+C:\Users\dgego\source\repos\para4o10\para4o10\obj\Debug\para4o10.pdb
