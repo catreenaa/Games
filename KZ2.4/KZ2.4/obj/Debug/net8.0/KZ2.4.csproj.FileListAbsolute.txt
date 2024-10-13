@@ -1,0 +1,14 @@
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\bin\Debug\net8.0\KZ2.4.exe
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\bin\Debug\net8.0\KZ2.4.deps.json
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\bin\Debug\net8.0\KZ2.4.runtimeconfig.json
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\bin\Debug\net8.0\KZ2.4.dll
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\bin\Debug\net8.0\KZ2.4.pdb
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.AssemblyInfoInputs.cache
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.AssemblyInfo.cs
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.dll
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\refint\KZ2.4.dll
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.pdb
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\KZ2.4.genruntimeconfig.cache
+C:\Users\dgego\source\repos\KZ2.4\KZ2.4\obj\Debug\net8.0\ref\KZ2.4.dll
