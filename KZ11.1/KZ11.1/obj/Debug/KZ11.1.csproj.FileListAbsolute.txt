@@ -1,0 +1,7 @@
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\bin\Debug\KZ11.1.exe.config
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\bin\Debug\KZ11.1.exe
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\bin\Debug\KZ11.1.pdb
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\obj\Debug\KZ11.1.csproj.AssemblyReference.cache
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\obj\Debug\KZ11.1.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\obj\Debug\KZ11.1.exe
+C:\Users\dgego\source\repos\KZ11.1\KZ11.1\obj\Debug\KZ11.1.pdb
