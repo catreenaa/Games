@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dgego\\source\\repos\\KDZ3\\",
+  "WorkspaceRootPath": "C:\\Users\\dgego\\Documents\\GitHub\\Games\\KDZ3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16458DA9-2184-40ED-871B-A9412A7BDB15}|pole\\pole.csproj|c:\\users\\dgego\\source\\repos\\kdz3\\pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16458DA9-2184-40ED-871B-A9412A7BDB15}|pole\\pole.csproj|c:\\users\\dgego\\documents\\github\\games\\kdz3\\pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16458DA9-2184-40ED-871B-A9412A7BDB15}|pole\\pole.csproj|solutionrelative:pole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dgego\\source\\repos\\KDZ3\\pole\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dgego\\Documents\\GitHub\\Games\\KDZ3\\pole\\Program.cs",
               "RelativeDocumentMoniker": "pole\\Program.cs",
-              "ToolTip": "C:\\Users\\dgego\\source\\repos\\KDZ3\\pole\\Program.cs",
+              "ToolTip": "C:\\Users\\dgego\\Documents\\GitHub\\Games\\KDZ3\\pole\\Program.cs",
               "RelativeToolTip": "pole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T20:22:46.998Z",
               "EditorCaption": ""
