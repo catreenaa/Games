@@ -1,0 +1,14 @@
+C:\Users\dgego\source\repos\pole\pole\obj\Debug\pole.csproj.AssemblyReference.cache
+C:\Users\dgego\source\repos\pole\pole\obj\Debug\pole.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\pole\pole\bin\Debug\pole.exe.config
+C:\Users\dgego\source\repos\pole\pole\bin\Debug\pole.exe
+C:\Users\dgego\source\repos\pole\pole\bin\Debug\pole.pdb
+C:\Users\dgego\source\repos\pole\pole\obj\Debug\pole.exe
+C:\Users\dgego\source\repos\pole\pole\obj\Debug\pole.pdb
+C:\Users\dgego\source\repos\KDZ3\pole\bin\Debug\pole.exe.config
+C:\Users\dgego\source\repos\KDZ3\pole\bin\Debug\pole.exe
+C:\Users\dgego\source\repos\KDZ3\pole\bin\Debug\pole.pdb
+C:\Users\dgego\source\repos\KDZ3\pole\obj\Debug\pole.csproj.AssemblyReference.cache
+C:\Users\dgego\source\repos\KDZ3\pole\obj\Debug\pole.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\KDZ3\pole\obj\Debug\pole.exe
+C:\Users\dgego\source\repos\KDZ3\pole\obj\Debug\pole.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dgego\\source\\repos\\KDZ7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A4C698-B54F-4781-95EE-A602EFBE5EFE}|Labirint\\Labirint.csproj|c:\\users\\dgego\\source\\repos\\kdz7\\labirint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A4C698-B54F-4781-95EE-A602EFBE5EFE}|Labirint\\Labirint.csproj|solutionrelative:labirint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dgego\\source\\repos\\KDZ7\\Labirint\\Program.cs",
+              "RelativeDocumentMoniker": "Labirint\\Program.cs",
+              "ToolTip": "C:\\Users\\dgego\\source\\repos\\KDZ7\\Labirint\\Program.cs",
+              "RelativeToolTip": "Labirint\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0oAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:23:41.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

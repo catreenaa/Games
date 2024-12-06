@@ -1,0 +1,14 @@
+C:\Users\dgego\source\repos\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\dgego\source\repos\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\dgego\source\repos\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\dgego\source\repos\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\dgego\source\repos\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\dgego\source\repos\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\dgego\source\repos\KDZ7\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\dgego\source\repos\KDZ7\Labirint\bin\Debug\Labirint.exe
+C:\Users\dgego\source\repos\KDZ7\Labirint\bin\Debug\Labirint.pdb
+C:\Users\dgego\source\repos\KDZ7\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\dgego\source\repos\KDZ7\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\dgego\source\repos\KDZ7\Labirint\obj\Debug\Labirint.exe
+C:\Users\dgego\source\repos\KDZ7\Labirint\obj\Debug\Labirint.pdb
